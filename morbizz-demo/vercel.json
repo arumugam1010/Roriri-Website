@@ -4,6 +4,6 @@
     { "src": "morbizz-demo/index.html", "use": "@vercel/static" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "/morbizz-demo/index.html" }
+    { "src": "/(.*)", "dest": "/morbizz-demo/morbizz-demo/index.html" }
   ]
 }
