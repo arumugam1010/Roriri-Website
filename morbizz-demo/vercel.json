@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "builds": [
-    { "src": "morbizz-demo/index.html", "use": "@vercel/static" }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/morbizz-demo/morbizz-demo/index.html" }
-  ]
-}
